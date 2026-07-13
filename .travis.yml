@@ -4,4 +4,4 @@ services:
 
 script:
   - docker build -t algofields/node .
-  - docker image algofields/node
+  - docker images algofields/node
